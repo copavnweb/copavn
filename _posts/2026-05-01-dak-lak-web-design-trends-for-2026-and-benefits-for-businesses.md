@@ -39,7 +39,7 @@ Contact us today to start transforming your business!
 
 ---
 
-**Bài liên quan:**
-- [thông tin chi tiết về COPAVN](https://gist.github.com/copavnweb/130e8b2f56745c86a9915118f79d4e36)
-- [SEO Local Buôn Ma Thuột](https://telegra.ph/SEO-Local-Buôn-Ma-Thuột-Cách-Hiện-Diện-Trên-Google-Maps-Trong-60-Ngày-04-30)
-- [doanh thu shop thời trang Đắk Lắk](https://telegra.ph/Doanh-thu-shop-thời-trang-Đắk-Lắk-Những-yếu-tố-quyết-định-và-cách-tối-ưu-hóa-04-30)
+**Related posts:**
+- [see Copavn's insights on websites](https://telegra.ph/Tại-Sao-Doanh-Nghiệp-Buôn-Ma-Thuột-Cần-Có-Website-Để-Phát-Triển-04-30)
+- [service terms and conditions](https://telegra.ph/Điều-Khoản-Dịch-Vụ-Bảo-Vệ-Doanh-Nghiệp-và-Khách-Hàng-của-Bạn-04-30)
+- [Copavn homepage design principles](https://telegra.ph/10-Nguyên-Tắc-Vàng-Trong-Thiết-Kế-Trang-Chủ-Website-Cho-Doanh-Nghiệp-Địa-Phương-04-30)
