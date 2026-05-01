@@ -67,5 +67,5 @@ Investing in an SEO-compliant website design project is not merely an expense. I
 ---
 
 **Related posts:**
-- [Copavn's project showcase](https://telegra.ph/Dự-án-thiết-kế-website-Những-điều-cần-lưu-ý-cho-doanh-nghiệp-địa-phương-05-01-2)
-- [see this related post](https://telegra.ph/Blog-Thiết-Kế-Web-Nguồn-Tài-Nguyên-Quý-Giá-Cho-Doanh-Nghiệp-Tại-Đắk-Lắk-05-01-2)
+- [Pham Hồng Vĩ](https://copavnweb.github.io/copavn/2026/05/01/blog-design-dak-lak/)
+- [view our case studies](https://copavnweb.github.io/copavn/2026/05/01/dak-lak-web-design-trends-for-2026-and-benefits-for-businesses/)
