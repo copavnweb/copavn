@@ -53,6 +53,6 @@ Don’t wait any longer! Establish a robust privacy policy today so that your cu
 ---
 
 **Related posts:**
-- [get the details here](https://gist.github.com/copavnweb/3fd67a825c02c2272ee8fb1a49f4007c)
-- [questions about web design](https://gist.github.com/copavnweb/f9705d01b74367f66cc57f7cd60848bf)
-- [see Copavn's web solutions](https://telegra.ph/Dịch-Vụ-Thiết-Kế-Web-Chuyên-Nghiệp-Hướng-Dẫn-Chọn-Lựa-Đúng-Đắn-Cho-Doanh-Nghiệp-04-30)
+- [copavn.com](https://copavn.com)
+- [check Copavn's terms](https://copavnweb.github.io/copavn/2026/05/01/service-terms/)
+- [this website homepage guide](https://gist.github.com/copavnweb/935ce4ce70dffd3cb07fd69520de7851)
