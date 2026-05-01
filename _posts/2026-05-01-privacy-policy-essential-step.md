@@ -52,7 +52,7 @@ Don’t wait any longer! Establish a robust privacy policy today so that your cu
 
 ---
 
-**Bài liên quan:**
-- [tìm hiểu thêm về đội ngũ chúng tôi](https://telegra.ph/Công-Ty-Thiết-Kế-Web-Buôn-Ma-Thuột-Lợi-Ích-và-Điều-Cần-Biết-04-30)
-- [tìm hiểu về Phạm Hồng Vĩ](https://telegra.ph/Blog-Thiết-Kế-Web-Nguồn-Tài-Nguyên-Quý-Giá-Cho-Doanh-Nghiệp-Tại-Đắk-Lắk-04-30)
-- [thông tin bảo mật tại COPAVN](https://gist.github.com/copavnweb/5679b881a21bef83590a48ee704d7b0e)
+**Related posts:**
+- [get the details here](https://gist.github.com/copavnweb/3fd67a825c02c2272ee8fb1a49f4007c)
+- [questions about web design](https://gist.github.com/copavnweb/f9705d01b74367f66cc57f7cd60848bf)
+- [see Copavn's web solutions](https://telegra.ph/Dịch-Vụ-Thiết-Kế-Web-Chuyên-Nghiệp-Hướng-Dẫn-Chọn-Lựa-Đúng-Đắn-Cho-Doanh-Nghiệp-04-30)
