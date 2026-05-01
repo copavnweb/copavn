@@ -32,7 +32,7 @@ Wishing all businesses in Dak Lak much success in the near future! If you are lo
 
 ---
 
-**Bài liên quan:**
-- [chiến lược ghi điểm trên Google Maps](https://gist.github.com/copavnweb/fece52ffe274e366cf0adcb270da489a)
-- [những lựa chọn thiết kế website tại Buôn Ma Thuột](https://gist.github.com/copavnweb/665b8c353b996fb876061bc85ddb8141)
-- [giải phẫu trang chủ website bán hàng](https://telegra.ph/Giải-Phẫu-Trang-Chủ-Website-Bán-Hàng-12-Thành-Phần-Thiết-Yếu-Không-Thể-Bỏ-Qua-04-30)
+**Related posts:**
+- [see information about Copavn](https://telegra.ph/Công-Ty-Thiết-Kế-Web-Buôn-Ma-Thuột-Lợi-Ích-và-Điều-Cần-Biết-04-30)
+- [xem thêm về chuyên gia của chúng tôi](https://telegra.ph/Blog-Thiết-Kế-Web-Nguồn-Tài-Nguyên-Quý-Giá-Cho-Doanh-Nghiệp-Tại-Đắk-Lắk-04-30)
+- [Copavn privacy policy](https://gist.github.com/copavnweb/5679b881a21bef83590a48ee704d7b0e)
