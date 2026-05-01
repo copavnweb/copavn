@@ -32,7 +32,7 @@ Start today to build a professional homepage that attracts customers to your bus
 
 ---
 
-**Bài liên quan:**
-- [lợi ích của website cho doanh nghiệp BMT](https://copavnweb.github.io/copavn/2026/05/01/businesses-buon-ma-thuot-need-website/)
-- [kinh nghiệm thiết kế website chuyên nghiệp](https://gist.github.com/copavnweb/7e6a0dccc0e78dbd931b6cc94225c4b5)
-- [các dự án thiết kế website Đắk Lắk](https://gist.github.com/copavnweb/9a0d172bdca4c9b6157b8d58f1317484)
+**Related posts:**
+- [Lợi Ích Của Dịch Vụ SEO Đắk Lắk Đối Với Doanh Nghiệp Nhỏ](https://dev.to/copavnweb/the-benefits-of-seo-services-in-dak-lak-for-small-businesses-4oef)
+- [these design projects](https://gist.github.com/copavnweb/1094f91f95d4d7ae96cd4af1b9a834ef)
+- [Copavn - pricing for design](https://gist.github.com/copavnweb/a14b643a39bf9ef55c575c5df84b3bee)
