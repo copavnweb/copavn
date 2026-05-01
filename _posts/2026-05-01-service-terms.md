@@ -38,6 +38,6 @@ With the rapid development of information technology and the online market, havi
 ---
 
 **Related posts:**
-- [explore Copavn's fashion project](https://gist.github.com/copavnweb/cf5b6e33743ca194a72b462292945140)
-- [find more about our policy](https://telegra.ph/Chính-Sách-Bảo-Mật-Bước-Quan-Trọng-Không-Thể-Bỏ-Qua-Cho-Website-Của-Bạn-04-30)
-- [this terms of service overview](https://gist.github.com/copavnweb/0b40d2fb7d04797d2bbaebfa10545553)
+- [Copavn design report](https://copavn.com)
+- [view our design guidelines](https://copavnweb.github.io/copavn/2026/05/01/golden-principles-homepage-design/)
+- [Lợi Ích Của Dịch Vụ SEO Đắk Lắk Đối Với Doanh Nghiệp Nhỏ](https://telegra.ph/Lợi-Ích-Của-Dịch-Vụ-SEO-Đắk-Lắk-Đối-Với-Doanh-Nghiệp-Nhỏ-05-01)
