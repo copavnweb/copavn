@@ -37,7 +37,7 @@ With the rapid development of information technology and the online market, havi
 
 ---
 
-**Bài liên quan:**
-- [giải pháp số cho doanh nghiệp Buôn Ma Thuột](https://gist.github.com/copavnweb/3fd67a825c02c2272ee8fb1a49f4007c)
-- [liên hệ tư vấn thiết kế web Đắk Lắk](https://gist.github.com/copavnweb/f9705d01b74367f66cc57f7cd60848bf)
-- [web bán hàng Đắk Lắk](https://telegra.ph/Dịch-Vụ-Thiết-Kế-Web-Chuyên-Nghiệp-Hướng-Dẫn-Chọn-Lựa-Đúng-Đắn-Cho-Doanh-Nghiệp-04-30)
+**Related posts:**
+- [explore Copavn's fashion project](https://gist.github.com/copavnweb/cf5b6e33743ca194a72b462292945140)
+- [find more about our policy](https://telegra.ph/Chính-Sách-Bảo-Mật-Bước-Quan-Trọng-Không-Thể-Bỏ-Qua-Cho-Website-Của-Bạn-04-30)
+- [this terms of service overview](https://gist.github.com/copavnweb/0b40d2fb7d04797d2bbaebfa10545553)
