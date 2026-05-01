@@ -27,7 +27,7 @@ Our secret to success lies in combining technology with a deep understanding of 
 
 ---
 
-**Bài liên quan:**
-- [click tại đây](https://telegra.ph/Tại-Sao-Doanh-Nghiệp-Buôn-Ma-Thuột-Cần-Có-Website-Để-Phát-Triển-04-30)
-- [quy định dịch vụ COPAVN](https://telegra.ph/Điều-Khoản-Dịch-Vụ-Bảo-Vệ-Doanh-Nghiệp-và-Khách-Hàng-của-Bạn-04-30)
-- [tăng chuyển đổi website](https://telegra.ph/10-Nguyên-Tắc-Vàng-Trong-Thiết-Kế-Trang-Chủ-Website-Cho-Doanh-Nghiệp-Địa-Phương-04-30)
+**Related posts:**
+- [improve your local visibility](https://gist.github.com/copavnweb/fece52ffe274e366cf0adcb270da489a)
+- [this web design service overview](https://gist.github.com/copavnweb/665b8c353b996fb876061bc85ddb8141)
+- [effective homepage structure](https://telegra.ph/Giải-Phẫu-Trang-Chủ-Website-Bán-Hàng-12-Thành-Phần-Thiết-Yếu-Không-Thể-Bỏ-Qua-04-30)
