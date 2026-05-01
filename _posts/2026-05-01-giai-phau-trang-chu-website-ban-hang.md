@@ -3,7 +3,9 @@ layout: post
 title: "Dissecting Your E-commerce Homepage: 12 Essential Components You Can't Overlook"
 date: 2026-05-01 09:00:00 +0700
 tags: ["ecommerce design", "website anatomy", "SEO optimization", "conversion rates"]
----## Why is Your Homepage Important?
+---
+
+## Why is Your Homepage Important?
 Consumers take approximately 5 seconds to decide whether to stay on or leave a website. This means that your homepage isn’t just a virtual facade; it acts as the "window" to attract customers’ interest and build their trust. A scientifically designed homepage can facilitate higher conversion rates and enhance your brand’s value.
 
 ## Component 1: Header
@@ -50,6 +52,6 @@ Implementing these essential components in the design of your e-commerce homepag
 ---
 
 **Bài liên quan:**
-- [COPAVN thiết kế trang chủ website](https://copavnweb.github.io/copavn/2026/05/01/golden-principles-homepage-design/)
-- [khám phá các dự án của chúng tôi](https://gist.github.com/copavnweb/1094f91f95d4d7ae96cd4af1b9a834ef)
-- [bảng giá web doanh nghiệp](https://gist.github.com/copavnweb/a14b643a39bf9ef55c575c5df84b3bee)
+- [tăng chuyển đổi website](https://copavnweb.github.io/copavn/2026/05/01/golden-principles-homepage-design/)
+- [COPAVN tăng 320% đơn hàng](https://gist.github.com/copavnweb/5760b58915e1d1c8b93eba83d635faac)
+- [tăng 250% doanh thu Đắk Lắk](https://gist.github.com/copavnweb/cf5b6e33743ca194a72b462292945140)
