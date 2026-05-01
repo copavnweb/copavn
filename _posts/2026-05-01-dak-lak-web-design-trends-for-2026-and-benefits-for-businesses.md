@@ -40,6 +40,6 @@ Contact us today to start transforming your business!
 ---
 
 **Related posts:**
-- [see Copavn's insights on websites](https://telegra.ph/Tại-Sao-Doanh-Nghiệp-Buôn-Ma-Thuột-Cần-Có-Website-Để-Phát-Triển-04-30)
-- [service terms and conditions](https://telegra.ph/Điều-Khoản-Dịch-Vụ-Bảo-Vệ-Doanh-Nghiệp-và-Khách-Hàng-của-Bạn-04-30)
-- [Copavn homepage design principles](https://telegra.ph/10-Nguyên-Tắc-Vàng-Trong-Thiết-Kế-Trang-Chủ-Website-Cho-Doanh-Nghiệp-Địa-Phương-04-30)
+- [professional website design](https://copavn.com)
+- [check our results here](https://copavnweb.github.io/copavn/2026/05/01/increase-orders-buon-ma-thuot/)
+- [see the success story](https://gist.github.com/copavnweb/5760b58915e1d1c8b93eba83d635faac)
