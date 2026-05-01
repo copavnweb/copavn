@@ -33,6 +33,6 @@ Start today to build a professional homepage that attracts customers to your bus
 ---
 
 **Related posts:**
+- [website design in Buon Ma Thuot](https://copavn.com)
+- [analyze your homepage](https://copavnweb.github.io/copavn/2026/05/01/giai-phau-trang-chu-website-ban-hang/)
 - [Lợi Ích Của Dịch Vụ SEO Đắk Lắk Đối Với Doanh Nghiệp Nhỏ](https://dev.to/copavnweb/the-benefits-of-seo-services-in-dak-lak-for-small-businesses-4oef)
-- [these design projects](https://gist.github.com/copavnweb/1094f91f95d4d7ae96cd4af1b9a834ef)
-- [Copavn - pricing for design](https://gist.github.com/copavnweb/a14b643a39bf9ef55c575c5df84b3bee)
